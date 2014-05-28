@@ -1,4 +1,4 @@
 SintiaR.github.io
 =================
 
-Html Tutrial
+Html Tutorial
